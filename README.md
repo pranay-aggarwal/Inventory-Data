@@ -13,7 +13,7 @@ This is a simple Inventory Tracker program written in Python. The program allows
    2. Open Admin Settings
    3. Memory Options
    4. Quit
-      
+
    =====================================
 
 
